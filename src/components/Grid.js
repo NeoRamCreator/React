@@ -12,6 +12,14 @@ class Grid extends React.Component {
                 <div className='box5'>5</div>
                 <div className='box6'>6</div>
                 <div className='box7'>7</div>
+                <div className='box8'>8</div>
+                <div className='box9'>9</div>
+                <div className='box10'>10</div>
+                <div className='box11'>11</div>
+                <div className='box12'>12</div>
+                <div className='box13'>13</div>
+                <div className='box14'>14</div>
+                <div className='box15'>15</div>
                 
             </div>
 

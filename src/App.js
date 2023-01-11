@@ -1,6 +1,7 @@
 
 import './App.css';
 import './Grid.css';
+import './output.css';
 
 import Header from './components/Header';
 import Welcom from './components/Welcom';
@@ -17,6 +18,7 @@ function App() {
 
       {/* <h6>App.js</h6> */}
       {/* <Header /> */}
+
       <Welcom />
       <ComOne />
       <Doubled arr={[1, 2, 3, 4, 5]} />
