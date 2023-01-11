@@ -1,4 +1,19 @@
-.App {
+body {
+  width: 96%;
+  background-color: #68748b;
+  border: 1px solid;
+  margin: 0, 5%;
+  padding: 1%;
+}
+
+div {
+  border: 1px solid;
+  margin-bottom: 5px;
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +50,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
